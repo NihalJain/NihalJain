@@ -1,16 +1,4 @@
-An experienced Software Engineer with a demonstrated history of working in the computer software industry. 
-- Skilled in technologies like Big Data, Hadoop, Cloud and Master Data Management.
-- Proficient in NoSQL Databases like HBase and MongoDB.
-
-Over the past few years, I have been working on design and development of distributed systems along with building highly scalable services using Java, Scala and Python. 
-
-Outside work I make efforts to give back to Open Source communities, especially Apache HBase project. 
-
-Apart from industry, I have also worked as a Trainee Teacher in one of the premier institutes of India: National Institute of Technology, Meghalaya 
-
-I have a Master of Technology degree from Indian Institute of Technology, Guwahati along with a Bachelor of Engineering from Assam Engineering College. 
-
-I am extremely passionate about computer science. Personally, in order to understand various aspects of computer science, I have been reading and writing code since 12+ years. I am still learning.
+As a seasoned Software Engineer, I specialize in Big Data, Hadoop, Cloud, Master Data Management, and NoSQL Databases. I've dedicated years to developing distributed systems and scalable services using Java, Scala, and Python. I also contribute to open-source communities, notably Apache HBase. My teaching experience comes from the National Institute of Technology, Meghalaya, and I hold degrees from the Indian Institute of Technology, Guwahati, and Assam Engineering College. With a deep passion for computer science, I've been engaging in coding for over 12 years and am an ever-curious learner.
 
 Want to get in touch?
 - Call me on: +91-9706626838 
