@@ -2,7 +2,7 @@ As a seasoned Software Engineer, I specialize in Big Data, Hadoop, Cloud, Master
 
 Want to get in touch?
 - Call me on: +91-9706626838 
-- Drop me a mailto: nihaljain.cs@gmail.com
+- Drop me a mailto: nihaljain@apache.org
 - Or simply send me an invitation to connect
 
 <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=3429351&activity_type=all" target="_blank" style="display: block" align="center">
