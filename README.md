@@ -32,8 +32,6 @@ const softwareEngineer = {
   personalInterest: "Engaging in computer science for over 12 years; enjoys reading and writing code and solving challenging problems; and is an ever-curious learner."
 }
 ```
-I've made the property names more descriptive and clear, simplified the structure, and ensured the data is well organized.
-```
 
 </div>
 
