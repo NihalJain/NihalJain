@@ -29,7 +29,12 @@ const softwareEngineer = {
   },
   education: ["Indian Institute of Technology, Guwahati", "Assam Engineering College"],
   currentObjective: "Focus on designing and developing distributed systems and scalable services",
-  personalInterest: "Engaging in computer science for over 12 years; enjoys reading and writing code and solving challenging problems; and is an ever-curious learner."
+  passion: [
+  "I've been engaged in computer science for over 13 years.",
+  "I enjoy the process of reading and writing code.",
+  "I love tackling challenging problems.",
+  "Most importantly, I consider myself an ever-curious learner, always seeking to broaden my knowledge and expertise."
+]
 }
 ```
 
