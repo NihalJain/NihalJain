@@ -61,3 +61,8 @@ const softwareEngineer = {
 [![Linkedin: nihaljain](https://img.shields.io/badge/-nihaljain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nihaljain/)](https://www.linkedin.com/in/nihaljain)
 [![GitHub nihaljain](https://img.shields.io/github/followers/nihaljain?label=follow&style=social)](https://github.com/nihaljain)
 [![Twitter: nihaljain_cs](https://img.shields.io/twitter/follow/nihaljain_cs?style=social)](https://twitter.com/nihaljain_cs)
+
+
+### Sponsor Nihal Jain on GitHub Sponsors
+
+![GitHub Sponsor](https://img.shields.io/github/sponsors/NihalJain?label=Sponsor&logo=GitHub)
