@@ -65,4 +65,4 @@ const softwareEngineer = {
 
 ### Sponsor Nihal Jain on GitHub Sponsors
 
-![GitHub Sponsor](https://img.shields.io/github/sponsors/NihalJain?label=Sponsor&logo=GitHub)
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23007ec6)](https://github.com/sponsors/NihalJain)
