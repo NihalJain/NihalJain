@@ -1,19 +1,38 @@
-<h2>Hi, I'm Nihal Jain!</h2>
+# Hi, I'm Nihal Jain!
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=nihaljain)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ### <img src="https://media.giphy.com/media/YIoRLftPZQCFSQXIzp/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const softwareEngineer = {
-  pronouns: "he" | "him",
-  code: ["Java", "Scala", "Python"],
-  tools: ["Big Data", "Hadoop", "Cloud", "Master Data Management", "NoSQL Databases", "GenerativeAI"],
-  architecture: ["distributed systems", "scalable services"],
-  affiliations: {
-    contributor: ["Apache HBase", "Apache Phoenix", ""Apache Hadoop"],
-    alum: ["Indian Institute of Technology, Guwahati", "Assam Engineering College"]
+  pronouns: ["he", "him"],
+  origin: "Assam, India",
+  specializedIn: ["Big Data", "OpenSource", "NoSQL Databases", "Master Data Management"],
+  skills: {
+    programmingLanguages: ["Java", "Scala", "Python", "Ruby"],
+    scripting: ["Shell Scripting"],
+    markupLanguages: ["HTML", "LaTeX", "MarkDown"],
+    databases: ["HBase", "MongoDB", "MySQL"],
+    dataManagement: ["Data Mining", "Master Data Management", "Data Analysis"],
+    artificialIntelligence: ["Generative AI", "Natural Language Processing"],
+    bigDataTools: ["Apache HBase", "Apache Hadoop", "Apache HDFS", "Apache MapReduce", "Apache ZooKeeper", "Apache Spark"],
+    cloudTechnologies: ["Docker", "Kubernetes"],
+    systemDesign: ["Distributed Systems", "Microservices"],
+    softwareTools: ["GitHub Copilot", "Microsoft Copilot 365", "ChatGPT", "Git", "Jupyter", "Notion"]
   },
-  ongoingLearning: "Engaging in coding for over 12 years and am an ever-curious learner."
+  workExperience: {
+    currentEmployer: "Visa Inc",
+    openSourceContributions: ["Apache HBase", "Apache Phoenix", "Apache Hadoop"],
+    pastEmployers: ["Informatica LLC", "Huawei Technologies India", "National Institute of Technology Meghalaya"]
+  },
+  education: ["Indian Institute of Technology, Guwahati", "Assam Engineering College"],
+  currentObjective: "Focus on designing and developing distributed systems and scalable services",
+  personalInterest: "Engaging in computer science for over 12 years; enjoys reading and writing code and solving challenging problems; and is an ever-curious learner."
 }
+```
+I've made the property names more descriptive and clear, simplified the structure, and ensured the data is well organized.
 ```
 
 </div>
@@ -40,5 +59,3 @@ const softwareEngineer = {
 [![GitHub nihaljain](https://img.shields.io/github/followers/nihaljain?label=follow&style=social)](https://github.com/nihaljain)
 
 <hr>
- <img src="https://visitor-badge.laobi.icu/badge?page_id=nihaljain&style=flat-square&color=blue" alt="Visitor Stats"/>
- </div>
