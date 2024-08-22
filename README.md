@@ -35,7 +35,7 @@ const softwareEngineer = {
     "I love tackling challenging problems.",
     "Most importantly, I consider myself an ever-curious learner, always seeking to broaden my knowledge and expertise."
   ],
-  quote: "Love what you do, do what you love!"
+  quote: "Do what you love, love what you do!"
 }
 ```
 
