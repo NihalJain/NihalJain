@@ -1,7 +1,7 @@
 # Hi, I'm Nihal Jain!
 
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg)](https://github.com/ellerbrock/open-source-badge/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nihaljain)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ### <img src="https://media.giphy.com/media/YIoRLftPZQCFSQXIzp/giphy.gif" width="50"> A little more about me...  
 
@@ -9,6 +9,7 @@
 const softwareEngineer = {
   pronouns: ["he", "him"],
   origin: "Assam, India",
+  basedIn: "Bangalore, India",
   specializedIn: ["Big Data", "OpenSource", "NoSQL Databases", "Master Data Management"],
   skills: {
     programmingLanguages: ["Java", "Scala", "Python", "Ruby"],
@@ -17,7 +18,7 @@ const softwareEngineer = {
     databases: ["HBase", "MongoDB", "MySQL"],
     dataManagement: ["Data Mining", "Master Data Management", "Data Analysis"],
     artificialIntelligence: ["Generative AI", "Natural Language Processing"],
-    bigDataTools: ["Apache HBase", "Apache Hadoop", "Apache HDFS", "Apache MapReduce", "Apache ZooKeeper", "Apache Spark"],
+    bigDataTools: ["Apache HBase", "Apache Hadoop", "Apache Ambari", "Apache ZooKeeper", "Apache Spark"],
     cloudTechnologies: ["Docker", "Kubernetes"],
     systemDesign: ["Distributed Systems", "Microservices"],
     softwareTools: ["GitHub Copilot", "Microsoft Copilot 365", "ChatGPT", "Git", "Jupyter", "Notion"]
@@ -33,7 +34,7 @@ const softwareEngineer = {
     "I've been engaged in computer science for over 13 years.",
     "I enjoy the process of reading and writing code.",
     "I love tackling challenging problems.",
-    "Most importantly, I consider myself an ever-curious learner, always seeking to broaden my knowledge and expertise."
+    "I am an ever-curious learner, always seeking to broaden my knowledge and expertise."
   ],
   quote: "Do what you love, love what you do!"
 }
