@@ -30,11 +30,12 @@ const softwareEngineer = {
   education: ["Indian Institute of Technology, Guwahati", "Assam Engineering College"],
   currentObjective: "Focus on designing and developing distributed systems and scalable services",
   passion: [
-  "I've been engaged in computer science for over 13 years.",
-  "I enjoy the process of reading and writing code.",
-  "I love tackling challenging problems.",
-  "Most importantly, I consider myself an ever-curious learner, always seeking to broaden my knowledge and expertise."
-]
+    "I've been engaged in computer science for over 13 years.",
+    "I enjoy the process of reading and writing code.",
+    "I love tackling challenging problems.",
+    "Most importantly, I consider myself an ever-curious learner, always seeking to broaden my knowledge and expertise."
+  ],
+  quote: "Love what you do, do what you love!"
 }
 ```
 
