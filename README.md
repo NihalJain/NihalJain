@@ -1,6 +1,20 @@
+<h2>Hi, I'm Nihal Jain!</h2>
 
-As a seasoned Software Engineer, I specialize in Big Data, Hadoop, Cloud, Master Data Management, and NoSQL Databases. I've dedicated years to developing distributed systems and scalable services using Java, Scala, and Python. I also contribute to open-source communities, notably Apache HBase. My teaching experience comes from the National Institute of Technology, Meghalaya, and I hold degrees from the Indian Institute of Technology, Guwahati, and Assam Engineering College. With a deep passion for computer science, I've been engaging in coding for over 12 years and am an ever-curious learner.
+### <img src="https://media.giphy.com/media/YIoRLftPZQCFSQXIzp/giphy.gif" width="50"> A little more about me...  
 
+```javascript
+const softwareEngineer = {
+  pronouns: "he" | "him",
+  code: ["Java", "Scala", "Python"],
+  tools: ["Big Data", "Hadoop", "Cloud", "Master Data Management", "NoSQL Databases", "GenerativeAI"],
+  architecture: ["distributed systems", "scalable services"],
+  affiliations: {
+    contributor: ["Apache HBase", "Apache Phoenix", ""Apache Hadoop"],
+    alum: ["Indian Institute of Technology, Guwahati", "Assam Engineering College"]
+  },
+  ongoingLearning: "Engaging in coding for over 12 years and am an ever-curious learner."
+}
+```
 
 </div>
 
@@ -19,13 +33,10 @@ As a seasoned Software Engineer, I specialize in Big Data, Hadoop, Cloud, Master
 - Call me on: +91-9706626838 
 - Drop me a mailto: nihaljain@apache.org
 
-<h4> Or simply send me an invitation to connect 
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/nihaljain">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  </div>
-</h4>
+<h4> Or simply send me an invitation to connect </h4>
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
  <div>  
   </br>
