@@ -52,7 +52,6 @@ const softwareEngineer = {
 
 ### Or simply send me an invitation to connect?
 
-[![Twitter: nihaljain_cs](https://img.shields.io/twitter/follow/nihaljain_cs?style=social)](https://twitter.com/nihaljain_cs)
 [![Linkedin: nihaljain](https://img.shields.io/badge/-nihaljain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nihaljain/)](https://www.linkedin.com/in/nihaljain)
 [![GitHub nihaljain](https://img.shields.io/github/followers/nihaljain?label=follow&style=social)](https://github.com/nihaljain)
-
+[![Twitter: nihaljain_cs](https://img.shields.io/twitter/follow/nihaljain_cs?style=social)](https://twitter.com/nihaljain_cs)
