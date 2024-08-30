@@ -6,7 +6,7 @@
 ### <img src="https://media.giphy.com/media/YIoRLftPZQCFSQXIzp/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const softwareEngineer = {
+softwareEngineer = {
   pronouns: ["he", "him"],
   origin: "Assam, India",
   basedIn: "Bangalore, India",
