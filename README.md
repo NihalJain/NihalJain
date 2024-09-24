@@ -18,7 +18,7 @@ softwareEngineer = {
     databases: ["HBase", "MongoDB", "MySQL"],
     dataManagement: ["Data Mining", "Master Data Management", "Data Analysis"],
     artificialIntelligence: ["Generative AI", "Natural Language Processing"],
-    bigDataTools: ["Apache HBase", "Apache Hadoop", "Apache Ambari", "Apache ZooKeeper", "Apache Spark"],
+    bigDataTools: ["Apache HBase", "Apache Hadoop", "Apache ZooKeeper", "Apache Ambari", "Apache Bigtop", "Apache Ranger", "Apache Spark"],
     cloudTechnologies: ["Docker", "Kubernetes"],
     systemDesign: ["Distributed Systems", "Microservices"],
     softwareTools: ["GitHub Copilot", "Microsoft Copilot 365", "ChatGPT", "Git", "Jupyter", "Notion"]
