@@ -52,6 +52,11 @@ softwareEngineer = {
 
 </div>
 
+
+### Project wise contributions
+<img src="https://github.com/NihalJain/opensource-contributions-tracker/blob/main/output/project_wise_contribution.png" width="500">
+
+
 ### Want to get in touch?
 
 - Call me on: +91-9706626838 
