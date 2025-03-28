@@ -6,7 +6,7 @@
 ### <img src="https://media.giphy.com/media/YIoRLftPZQCFSQXIzp/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-softwareEngineer = {
+nihaljain = {
   pronouns: ["he", "him"],
   origin: "Assam, India",
   basedIn: "Bangalore, India",
@@ -15,17 +15,17 @@ softwareEngineer = {
     programmingLanguages: ["Java", "Scala", "Python", "Ruby"],
     scripting: ["Shell Scripting"],
     markupLanguages: ["HTML", "LaTeX", "MarkDown"],
-    databases: ["HBase", "MongoDB", "MySQL"],
+    databases: ["Apache HBase", "MongoDB", "MySQL"],
     dataManagement: ["Data Mining", "Master Data Management", "Data Analysis"],
-    artificialIntelligence: ["Generative AI", "Natural Language Processing"],
-    bigDataTools: ["Apache HBase", "Apache Hadoop", "Apache ZooKeeper", "Apache Ambari", "Apache Bigtop", "Apache Ranger", "Apache Spark"],
+    artificialIntelligence: ["Generative AI", "Natural Language Processing", "AI Agents"],
+    bigDataTools: ["Apache HBase", "Apache Hadoop", "Apache ZooKeeper", "Apache Ambari", "Apache Bigtop", "Apache Ranger", "Apache Spark", "Apache Pinot"],
     cloudTechnologies: ["Docker", "Kubernetes"],
     systemDesign: ["Distributed Systems", "Microservices"],
     softwareTools: ["GitHub Copilot", "Microsoft Copilot 365", "ChatGPT", "Git", "Jupyter", "Notion"]
   },
   workExperience: {
     currentEmployer: "Visa Inc",
-    openSourceContributions: ["Apache HBase", "Apache Phoenix", "Apache Hadoop"],
+    openSourceContributions: ["Apache HBase", "Apache Phoenix", "Apache Hadoop", "Apache ZooKeeper"],
     pastEmployers: ["Informatica LLC", "Huawei Technologies India", "National Institute of Technology Meghalaya"]
   },
   education: ["Indian Institute of Technology, Guwahati", "Assam Engineering College"],
