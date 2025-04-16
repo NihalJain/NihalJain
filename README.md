@@ -44,11 +44,9 @@ nihaljain = {
 
 ### Activity
 
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
+<img src="/github-metrics.svg" alt="Metrics" width="500">
 
-</div>
+<img src="https://github.com/NihalJain/opensource-contributions-tracker/blob/main/output/project_wise_contribution.png" width="500">
 
 <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=3429351&activity_type=all" target="_blank" style="display: block" align="center">
   <picture>
@@ -58,10 +56,6 @@ nihaljain = {
 </a>
 
 </div>
-
-<p align="left">
-<img src="https://github.com/NihalJain/opensource-contributions-tracker/blob/main/output/project_wise_contribution.png" width="500">
-</p>
 
 ### Want to get in touch?
 
