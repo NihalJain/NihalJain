@@ -59,7 +59,7 @@ nihaljain = {
 
 </div>
 
-<p align="center">
+<p align="left">
 <img src="https://github.com/NihalJain/opensource-contributions-tracker/blob/main/output/project_wise_contribution.png" width="500">
 </p>
 
