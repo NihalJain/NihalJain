@@ -44,16 +44,18 @@ nihaljain = {
 
 ### Activity
 
-<img src="/github-metrics.svg" alt="Metrics" width="500">
+<a href="https://github.com/NihalJain" style="display: block" align="center">
+  <img src="/github-metrics.svg" alt="Metrics" width="500">
+</a>
 
-<img src="https://github.com/NihalJain/opensource-contributions-tracker/blob/main/output/project_wise_contribution.png" width="500">
-
-<a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=3429351&activity_type=all" target="_blank" style="display: block" align="center">
+<a href="https://github.com/NihalJain" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=3429351&activity_type=all&image_size=auto&color_scheme=light" width="500" height="auto">
     <img alt="@NihalJain's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=3429351&activity_type=all&image_size=auto&color_scheme=light" width="500" height="auto">
   </picture>
 </a>
+
+<img src="https://github.com/NihalJain/opensource-contributions-tracker/blob/main/output/project_wise_contribution.png" width="500">
 
 </div>
 
