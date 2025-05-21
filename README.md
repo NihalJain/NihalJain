@@ -18,7 +18,7 @@ nihaljain = {
     databases: ["Apache HBase", "MongoDB", "MySQL"],
     dataManagement: ["Data Mining", "Master Data Management", "Data Analysis"],
     artificialIntelligence: ["Generative AI", "Natural Language Processing", "AI Agents"],
-    bigDataTools: ["Apache HBase", "Apache Hadoop", "Apache ZooKeeper", "Apache Ambari", "Apache Bigtop", "Apache Ranger", "Apache Spark", "Apache Pinot"],
+    bigDataTools: [ "Apache Pinot", "Apache HBase", "Apache Phoenix", "Apache Hadoop", "Apache ZooKeeper", "Apache Ambari", "Apache Bigtop", "Apache Ranger", "Apache Spark"],
     cloudTechnologies: ["Docker", "Kubernetes"],
     systemDesign: ["Distributed Systems", "Microservices"],
     softwareTools: ["GitHub Copilot", "Microsoft Copilot 365", "ChatGPT", "Git", "Jupyter", "Notion"]
@@ -55,7 +55,9 @@ nihaljain = {
   </picture>
 </a>
 
-<img src="https://github.com/NihalJain/opensource-contributions-tracker/blob/main/output/project_wise_contribution.png" width="500">
+<a href="https://github.com/NihalJain/opensource-contributions-tracker/blob/main/output/github_contributions_report.md" style="display: block" align="center">
+  <img src="https://github.com/NihalJain/opensource-contributions-tracker/blob/main/output/project_wise_contribution.png" width="500">
+</a>
 
 </div>
 
