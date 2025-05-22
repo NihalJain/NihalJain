@@ -18,14 +18,14 @@ nihaljain = {
     databases: ["Apache HBase", "MongoDB", "MySQL"],
     dataManagement: ["Data Mining", "Master Data Management", "Data Analysis"],
     artificialIntelligence: ["Generative AI", "Natural Language Processing", "AI Agents"],
-    bigDataTools: [ "Apache Pinot", "Apache HBase", "Apache Phoenix", "Apache Hadoop", "Apache ZooKeeper", "Apache Ambari", "Apache Bigtop", "Apache Ranger", "Apache Spark"],
+    bigDataTools: ["Apache HBase", "Apache Pinot", "Apache Phoenix", "Apache Hadoop", "Apache ZooKeeper", "Apache Ambari", "Apache Bigtop", "Apache Ranger", "Apache Spark"],
     cloudTechnologies: ["Docker", "Kubernetes"],
     systemDesign: ["Distributed Systems", "Microservices"],
     softwareTools: ["GitHub Copilot", "Microsoft Copilot 365", "ChatGPT", "Git", "Jupyter", "Notion"]
   },
   workExperience: {
     currentEmployer: "Visa Inc",
-    openSourceContributions: ["Apache HBase", "Apache Phoenix", "Apache Hadoop", "Apache ZooKeeper"],
+    openSourceContributions: ["Apache HBase", "Apache Pinot", "Apache Phoenix", "Apache Hadoop", "Apache ZooKeeper"],
     pastEmployers: ["Informatica LLC", "Huawei Technologies India", "National Institute of Technology Meghalaya"]
   },
   education: ["Indian Institute of Technology, Guwahati", "Assam Engineering College"],
