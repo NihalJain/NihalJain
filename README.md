@@ -55,7 +55,7 @@ nihaljain = {
   </picture>
 </a>
 
-<a href="https://github.com/NihalJain/opensource-contributions-tracker/blob/main/output/github_contributions_report.md" style="display: block" align="center">
+<a href="https://os.nihaljain.dev/" style="display: block" align="center">
   <img src="https://github.com/NihalJain/opensource-contributions-tracker/blob/main/output/project_wise_contribution.png" width="500">
 </a>
 
